@@ -1,0 +1,12 @@
+# Site settings
+title: Front End Developer | Anthony Tatekawa
+email: tokyographer@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "" # the base hostname & protocol for your site
+
+twitter_username: tokyographer
+github_username: tokyographer
+
+# Build settings
+markdown: kramdown
